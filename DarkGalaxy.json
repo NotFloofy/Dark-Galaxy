@@ -24,8 +24,8 @@
       "#fce4ec"
     ],
     "TEXT_MUTED": [
-      "#f8bbd0",
-      "#f48fb1"
+      "#ffffff",
+      "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
       "#ff4081",
@@ -64,7 +64,7 @@
       "#2e1535"
     ],
     "BACKGROUND_ACCENT": [
-      "#5e2750",
+      "#000044",
       "#4a1c3e"
     ],
     "BACKGROUND_FLOATING": [
